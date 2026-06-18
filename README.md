@@ -1,4 +1,4 @@
-# Power-bi-portfolio
+# Power-bi 
 Power Bi projects and Dashboards
 # Sales Dashboard
 Objective: Track sales performance across regions and products.
